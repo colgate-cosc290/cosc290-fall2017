@@ -9,6 +9,9 @@
 - **Fri, Sep 1 Lecture 2: Sets continued...**
     + Reading: 2.3
     + Problem set 2 will be due in class.
+
+## Week 2
+
 - **Mon, Sep 4 Lecture 3: Sequences, Vectors, Matrices**
     + Reading: 2.4
     + Problem set 3 will be due in class.
