@@ -4,8 +4,6 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 
 - [Schedule](schedule.md)
 - [Syllabus](syllabus.pdf)
-- Problem sets
-    + [ps1](problemsets/ps1.pdf), due Wednesday 8/30
 - **Office hours** 
     + I will settle on regular office hours soon.  When I do, I will post those hours here.  This week, I have some hours posted after class on W.
     + You are strongly encouraged to make an appointment for office hours.  You may also simply stop by during set hours, but priority will go to students who have made an appointment.

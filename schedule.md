@@ -5,10 +5,10 @@
 - **Tue, Aug 28 Lecture 0:  Half-day introduction.**
 - **Wed, Aug 29 Lecture 1:  Data types and sets.**
     + Reading: syllabus, 2.2, 2.3
-    + [Problem set 1](problemsets/ps1.md) is due in class.
+    + [Problem set 1](problemsets/ps1.pdf) is due in class.
 - **Fri, Sep 1 Lecture 2: Sets continued...**
     + Reading: 2.3
-    + Problem set 2 will be due in class.
+    + [Problem set 2](problemsets/ps2.pdf) will be due in class.
 
 ## Week 2
 
