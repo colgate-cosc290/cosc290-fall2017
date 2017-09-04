@@ -12,9 +12,20 @@
 
 ## Week 2
 
-- **Mon, Sep 4 Lecture 3: Sequences, Vectors, Matrices**
+- **Mon, Sep 4 Lecture 3: Sequences, Vectors, Functions**
     + Reading: Read the first part of 2.4, up to but not included 2.4.1 closely.  Please skim 2.4.1 and 2.4.2, the parts on vectors and matrices.  Read 2.5 closely, including the Computer Science Connection on p. 267.
     + [Problem set 3](problemsets/ps3.pdf) will be due in class.
-- **Wed, Sep 6 Lecture 4: Functions**
+- **Wed, Sep 6 Lecture 4: Propositional Logic**
     + Reading: 3-3.2
-    + Problem set 4 will be due in class.
+    + Problem set 4:
+        * Please complete problems 3.4-3.10.
+        * It is due in class on Wednesday.
+- **Fri, Sep 8 Lecture 5: Propositional Logic continued**
+    + Reading: 3.3
+
+## Week 3
+
+- **Mon, Sep 11 Lecture 6: Predicate Logic**
+    + Reading: 3.4
+- **Wed, Sep 13 Lecture 7: Predicate Logic continued**
+    + Reading: 3.5
