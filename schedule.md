@@ -21,6 +21,7 @@
     + [Lab 1](labs/lab1/README.md)
 - **Fri, Sep 8 Lecture 5: Propositional Logic continued**
     + Reading: 3.3
+    + There is no problem set for today, but come prepared to do some logical reasoning!
 
 ## Week 3
 
