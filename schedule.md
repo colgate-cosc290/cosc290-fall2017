@@ -17,9 +17,8 @@
     + [Problem set 3](problemsets/ps3.pdf) will be due in class.
 - **Wed, Sep 6 Lecture 4: Propositional Logic**
     + Reading: 3-3.2
-    + Problem set 4:
-        * Please complete problems 3.4-3.10.
-        * It is due in class on Wednesday.
+    + Problem set 4: Please complete problems 3.4-3.10. It is **due** in class on Wednesday.
+    + [Lab 1](labs/lab1/README.md)
 - **Fri, Sep 8 Lecture 5: Propositional Logic continued**
     + Reading: 3.3
 
