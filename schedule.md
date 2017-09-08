@@ -25,7 +25,10 @@
 
 ## Week 3
 
-- **Mon, Sep 11 Lecture 6: Predicate Logic**
-    + Reading: 3.4
+- **Mon, Sep 11 Lecture 6: Propositional Logic Equivalence and Entailment**
+    + Reading: review 3.2 and 3.3.  
+    + Problem set 5 (due in class on Monday): complete problems 3.39-3.41, 3.49, 3.60
 - **Wed, Sep 13 Lecture 7: Predicate Logic continued**
+    + Reading: 3.4
+- **Fri, Sep 15 Lecture 8: Predicate Logic continued**
     + Reading: 3.5
