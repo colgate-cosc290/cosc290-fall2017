@@ -30,5 +30,6 @@
     + Problem set 5 (due in class on Monday): complete problems 3.39-3.41, 3.49, 3.60
 - **Wed, Sep 13 Lecture 7: Predicate Logic continued**
     + Reading: 3.4
+    + No problem set for this lecture.  Finish lab1.
 - **Fri, Sep 15 Lecture 8: Predicate Logic continued**
     + Reading: 3.5
