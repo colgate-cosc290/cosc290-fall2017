@@ -15,20 +15,20 @@
 - **Mon, Sep 4 [Lecture 3: Sequences, Vectors, Functions](lecture/lecture3functions.pdf)**
     + Reading: Read the first part of 2.4, up to but not included 2.4.1 closely.  Please skim 2.4.1 and 2.4.2, the parts on vectors and matrices.  Read 2.5 closely, including the Computer Science Connection on p. 267.
     + [Problem set 3](problemsets/ps3.pdf) will be due in class.
-- **Wed, Sep 6 Lecture 4: Propositional Logic**
+- **Wed, Sep 6 [Lecture 4: Propositional Logic](lecture/lecture4propositional_logic.pdf)**
     + Reading: 3-3.2
     + Problem set 4: Please complete problems 3.4-3.10. It is **due** in class on Wednesday.
     + [Lab 1](labs/lab1/README.md)
-- **Fri, Sep 8 Lecture 5: Propositional Logic continued**
+- **Fri, Sep 8 [Lecture 5: Propositional Logic continued](lecture/lecture5propositional_logic.pdf)**
     + Reading: 3.3
     + There is no problem set for today, but come prepared to do some logical reasoning!
 
 ## Week 3
 
-- **Mon, Sep 11 Lecture 6: Propositional Logic Equivalence and Entailment**
+- **Mon, Sep 11 [Lecture 6: Propositional Logic Equivalence](lecture/lecture6equivalences.pdf)**
     + Reading: review 3.2 and 3.3.  
     + Problem set 5 (due in class on Monday): complete problems 3.39-3.41, 3.49, 3.60
-- **Wed, Sep 13 Lecture 7: Predicate Logic continued**
+- **Wed, Sep 13 [Lecture 7: Argument checking](lecture/lecture7arguments.pdf)**
     + Reading: 3.4
     + No problem set for this lecture.  Finish lab1.
 - **Fri, Sep 15 Lecture 8: Predicate Logic continued**
