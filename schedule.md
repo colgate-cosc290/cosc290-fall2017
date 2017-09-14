@@ -33,3 +33,4 @@
     + No problem set for this lecture.  Finish lab1.
 - **Fri, Sep 15 Lecture 8: Predicate Logic continued**
     + Reading: 3.5
+    + No problem set for this lecture.  Work on lab2.
