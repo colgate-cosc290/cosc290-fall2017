@@ -47,10 +47,11 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 
 ### Week 4
 
-- **Mon, Sep 18 Lecture 9: Error correcting codes**
+- **Mon, Sep 18 [Lecture 9: Error correcting codes](lecture/lecture9error_correcting_codes.pdf)**
     + Reading: 4.1 and 4.2
     + Problem set 6 (due in class on Monday): complete **at least 6** problems from 3.145-3.152.  You are free to choose which 6 you do.
 - **Wed, Sep 20 Lecture 10**
     + Reading: 4.3
+    + Problem set 7 (due in class on Wednesday): complete 4.22 and 4.26.  For 4.26, please use {a,b,c,d,e,f,g} to represent the 7 bits of the message and then describe each parity bit as a subset of {a,b,c,d,e,f,g}. 
 - **Fri, Sep 22 Lecture 11**
     + Reading: 4.4
