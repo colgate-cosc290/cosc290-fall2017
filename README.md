@@ -55,4 +55,6 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
     + Problem set 7 (due in class on Wednesday): complete 4.22 and 4.26.  For 4.26, please use {a,b,c,d,e,f,g,h,i,j,k} to represent the 11 bits of the message and then describe each of the 4 parity bits as a subset of {a,b,c,d,e,f,g,h,i,j,k}.  If you are stumped on this question, then try writing a Hamming code for 7 bit messages with 4 parity bits.  (As a bonus challenge problem, think about 4.29 or 4.31.)
 - **Fri, Sep 22 Lecture 11**
     + Reading: 4.4
-    + Problem set 8 (due in class on Friday): 4.12 and 4.13.
+    + Problem set 8 (due in class on Friday):
+      * 4.13.  However, you can just write an answer for error *detection* and you can skip the error *correction* part.
+      * 4.12.  Please do *both* error detection and correction.  Hint: both parts are a proof by construction (Definition 4.15 on p. 433).  For example, for the error detection part, you want to show that the given information implies that there exists a pair (codeword c and received bitstring c') such that error detection fails.  For the error correction part, you want to show that the given information implies that there exists a bistring c' where error correction fails (the original codeword is c but c' gets corrected to some other valid codeword c'').
