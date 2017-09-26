@@ -64,11 +64,9 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 - **Mon, Sep 25 [Lecture 12: Proof by contrapositive](lecture/lecture12proof_by_contrapositive.pdf)**
   + Review Ch 4, especially sections 4.3 and 4.5
   + No problem set, finish lab2!
-
 - **Wed, Sep 27 [Lecture 13: Proof by contradiction](lecture/lecture13proof_by_contradiction.pdf)**
   + Review Ch 4, especially sections 4.3 and 4.5
   + No problem set.
-
 - **Fri, Sep 29 [Lecture 14: Proof by induction](xxx)**
   + Reading TBD, will post early Wednesday.
   + Problem set TBD, will post early Wednesday.
