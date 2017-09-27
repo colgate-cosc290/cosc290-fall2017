@@ -7,6 +7,7 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 - [Syllabus](syllabus.pdf)
 - [Office hours](https://goo.gl/6STXDi): typically 1:30-3:00pm on M and F, and Tu 12:15-1. [Appointments](https://goo.gl/6STXDi) are encouraged.
 - [Piazza](https://piazza.com/class/j6wy4c4b6j73om)
+- [Labs](https://github.com/colgate-cosc290/cosc290-fall2017/tree/master/labs/)
 
 ## Schedule
 
