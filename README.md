@@ -69,11 +69,14 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
   + Review Ch 4, especially sections 4.3 and 4.5
   + No problem set.
 - **Fri, Sep 29 [Lecture 14: Proof by induction](lecture/lecture14proof_by_induction.pdf)**
-  + Reading 5.1 and 5.2, incluing "CS Connection"
+  + Reading 5.1 and 5.2, including "CS Connection"
   + No problem set...  but please be sure to do the reading!
 
 ### Week 6
 
-- **Mon, Oct 2 [Lecture 15: Proof by strong induction]()**
+- **Mon, Oct 2 [Lecture 15: Proof by induction practice](lecture/lecture15exercise.pdf)**
   + Reading 5.3
   + No problem set, work on lab3!
+- **Mon, Oct 4 [Lecture 16: Proof by strong induction]()**
+  + Reading 5.3
+  + No problem set...  but I encourage you to spend some time thinking about the exercise we started in class on Monday.
