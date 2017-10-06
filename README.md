@@ -80,7 +80,7 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 - **Wed, Oct 4 [Lecture 16: Proof by strong induction](lecture/lecture16strong_induction.pdf)**
   + Reading 5.3
   + No problem set...  but I encourage you to spend some time thinking about the exercise we started in class on Monday.
-- **Fri, Oct 6 [Lecture 17: Structural induction](lecture/lecture16structural_induction.pdf)**
+- **Fri, Oct 6 [Lecture 17: Structural induction](lecture/lecture17structural_induction.pdf)**
     + Reading 5.4 + CS Connections
     + No problem set...  try to finish lab 4 before fall break.
 
