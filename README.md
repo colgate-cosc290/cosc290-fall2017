@@ -84,6 +84,13 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
     + Reading 5.4 + CS Connections
     + No problem set...  try to finish lab 4 before fall break.
 
+### Week 7
+
+- **Wed, Oct 11 [Lecture 18: Structural induction](lecture/lecture18structural_induction2.pdf)**
+  + Review 5.4
+- **Fri, Oct 13 [Lecture 19: Proof review](lecture/lecture19proof_review.pdf)**
+    + Review Ch. 5
+
 
 ### Upcoming dates
 
