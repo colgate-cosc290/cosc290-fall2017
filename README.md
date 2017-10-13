@@ -88,7 +88,7 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 
 - **Wed, Oct 11 [Lecture 18: Structural induction](lecture/lecture18structural_induction2.pdf)**
   + Review 5.4
-- **Fri, Oct 13 [Lecture 19: Proof review](lecture/lecture19proof_review.pdf)**
+- **Fri, Oct 13 [Lecture 19: Proof review](lecture/lecture19proof_wrapup.pdf)**
     + Review Ch. 5
 
 
