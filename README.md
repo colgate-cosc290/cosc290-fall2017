@@ -86,14 +86,24 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 
 ### Week 7
 
+- **Mon, Oct 9 (Fall Break)**
 - **Wed, Oct 11 [Lecture 18: Structural induction](lecture/lecture18structural_induction2.pdf)**
   + Review 5.4
 - **Fri, Oct 13 [Lecture 19: Proof review](lecture/lecture19proof_wrapup.pdf)**
     + Review Ch. 5
 
+### Week 8
+
+- **Mon, Oct 16 [Lecture 20: Asymptotics](lecture/lecture20asymptotics.pdf)**
+  + Read 6.1, 6.2
+  + Problem set 10 (due in class on Monday): 6.5, 6.7, 6.10.
+- **Tue, Oct 17 through Fri, Oct 20** take-home midterm
+- **Wed, Oct 18 No Class (due to travel)**
+- **Fri, Oct 20 [Lecture 21: Analysis of ](lecture/lecture21algorithm_analysis.pdf)**
+    + Read 6.3
+    + No problem set, finish take-home exam
+
 
 ### Upcoming dates
 
-- **Tue, Oct 17 through Fri, Oct 20** take-home midterm
-- **Wed, Oct 18** class and lab are cancelled due to travel (attending a conference)
 - **Mon, Oct 23** class and office hours cancelled due to travel (attending a conference)
