@@ -99,7 +99,7 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
   + Problem set 10 (due in class on Monday): 6.5, 6.7, 6.10.
 - **Tue, Oct 17 through Fri, Oct 20** take-home midterm
 - **Wed, Oct 18 No Class (due to travel)**
-- **Fri, Oct 20 [Lecture 21: Analysis of ](lecture/lecture21algorithm_analysis.pdf)**
+- **Fri, Oct 20 [Lecture 21: Analysis of algorithms](lecture/lecture21algorithm_analysis.pdf)**
     + Read 6.3
     + No problem set, finish take-home exam
 
