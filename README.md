@@ -106,6 +106,6 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 ### Week 8
 
 - **Mon, Oct 23** class and office hours cancelled due to travel (attending a conference)
-- **Wed, Oct 25 [Lecture 22: Algorithm analysis and recurrence relations](lecture/xxx.pdf)**
+- **Wed, Oct 25 [Lecture 22: Algorithm analysis and recurrence relations](lecture/lecture22algorithm_analysis.pdf)**
     + Review 6.3 and read 6.4
 - **Fri, Oct 27 [Lecture 23: Wrap up recurrence relations](lecture/xxx.pdf)**
