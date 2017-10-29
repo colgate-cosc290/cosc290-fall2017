@@ -103,10 +103,19 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
     + Read 6.3
     + No problem set, finish take-home exam
 
-### Week 8
+### Week 9
 
 - **Mon, Oct 23** class and office hours cancelled due to travel (attending a conference)
 - **Wed, Oct 25 [Lecture 22: Algorithm analysis and recurrence relations](lecture/lecture22algorithm_analysis.pdf)**
     + Review 6.3 and read 6.4
 - **Fri, Oct 27 [Lecture 23: Recurrence relations](lecture/lecture23recurrence_relations.pdf)**
   + Read 6.4
+
+### Week 10
+
+- **Mon, Oct 30** [Lecture 24: Relations I](lecture/lecture24xxx.pdf)
+  + Read 8.2
+- **Wed, Nov 1 [Lecture 25: Relations II](lecture/lecture25xxx.pdf)**
+  + Read 8.3
+- **Fri, Nov 3 [Lecture 26: Relations III](lecture/lecture26xxx.pdf)**
+  + Read 8.4
