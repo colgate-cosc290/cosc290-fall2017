@@ -113,9 +113,9 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 
 ### Week 10
 
-- **Mon, Oct 30** [Lecture 24: Relations I](lecture/lecture24xxx.pdf)
+- **Mon, Oct 30 [Lecture 24: Relations I](lecture/lecture24relations.pdf)**
   + Read 8.2
-- **Wed, Nov 1 [Lecture 25: Relations II](lecture/lecture25xxx.pdf)**
+- **Wed, Nov 1 [Lecture 25: Relations II](lecture/lecture25relation_properties.pdf)**
   + Read 8.3
 - **Fri, Nov 3 [Lecture 26: Relations III](lecture/lecture26xxx.pdf)**
   + Read 8.4
