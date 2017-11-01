@@ -25,7 +25,20 @@ public class Relations {
         if (n2 == 0 || n4 == 0) throw new UnsupportedOperationException("expecting non-empty arrays!");
         if (n2 != n3) throw new UnsupportedOperationException("Number of columns of R must match number of rows of S");
 
-        throw new UnsupportedOperationException("implement me!");
+        boolean[][] T = new boolean[R[0].length][S.length];
+        //Arrays.fill(T,false); this is unnecessary as all values are automatically set to false
+        for (int i=0; i<R[0].length; i++){
+        	for (int j=0; j<R.length; j++){
+        		if (R[j][i]){
+        			for (int k=0; k<S.length; k++){
+        				if (S[k][j]){
+        					T[i][k]=true;
+        				}
+        			}
+        		}
+        	}
+        }
+        return T;
     }
 
     /**
@@ -43,7 +56,15 @@ public class Relations {
         int n4 = S[0].length;
         if (n1 != n3 || n2 != n4) throw new UnsupportedOperationException("array dimensions must match!");
 
-        throw new UnsupportedOperationException("implement me!");
+        boolean[][] T = new boolean[n1][n2];
+        for (int i=0; i<n1; i++){
+        	for (int j=0; j<n2; j++){
+        		if (R[i][j]||S[i][j]){
+        			T[i][j]=true;
+        		}
+        	}
+        }
+        return T;
     }
 
     public static boolean[][] transitiveClosure(boolean[][] R) {
@@ -99,7 +120,15 @@ public class Relations {
      * @param args
      */
     public static void main(String[] args) {
-        throw new UnsupportedOperationException("implement me!");
+        boolean[][] testA = new boolean[][]{{true},{false},{true}};
+        boolean[][] testB = new boolean[][]{{true,false,true}};
+        boolean[][] testresult = compose(testB,testA);
+        for (int i=0; i<testresult.length; i++){
+        	for (int j=0; j<testresult[i].length; j++){
+        		System.out.println(testresult[i][j]);
+        	}
+        }
+        
     }
 
     /**
