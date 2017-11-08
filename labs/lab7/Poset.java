@@ -12,13 +12,13 @@ public class Poset {
 
     /**
      * Initialize partially order set (poset) based on a Hasse diagram.
-     * @param hasse Hasse diagram in adjacency list format
+     * @param H Hasse diagram in adjacency list format
      *              (a map where the key is x an element of the set,
      *              and the value value is list of *direct* successors)
      */
-    public Poset(Map<Integer, List<Integer>> hasse) {
-        n = hasse.size();
-        checkInput(hasse);
+    public Poset(Map<Integer, List<Integer>> H) {
+        n = H.size();
+        checkInput(H);
         throw new UnsupportedOperationException("implement me!");
     }
 
@@ -111,7 +111,7 @@ public class Poset {
     }
 
     public static void main(String[] args) {
-        Map<Integer, List<Integer>> hasseAdjList = new HashMap<>();
+        Map<Integer, List<Integer>> H = new HashMap<>();
         // example Hasse diagram over {0, 1, 2, 3, 4} with the following order relationships
         // (only showing *direct* successors and omitting pairs that follow from reflexivity
         // and transitivity)
@@ -119,16 +119,16 @@ public class Poset {
         // 0 ≤ 3
         // 1 ≤ 4
         // 2 ≤ 4
-        hasseAdjList.put(0, Arrays.asList(2, 3));  // edges: 0 -> 2 and 0 -> 3
-        hasseAdjList.put(1, Arrays.asList(4));     // edges: 1 -> 4
-        hasseAdjList.put(2, Arrays.asList(4));     // edges: 2 -> 4
-        hasseAdjList.put(3, new LinkedList<>());   // 3 has no outgoing edges
-        hasseAdjList.put(4, new LinkedList<>());   // 4 has no outgoing edges
-        Poset poset = new Poset(hasseAdjList);
+        H.put(0, Arrays.asList(2, 3));  // edges: 0 -> 2 and 0 -> 3
+        H.put(1, Arrays.asList(4));     // edges: 1 -> 4
+        H.put(2, Arrays.asList(4));     // edges: 2 -> 4
+        H.put(3, new LinkedList<>());   // 3 has no outgoing edges
+        H.put(4, new LinkedList<>());   // 4 has no outgoing edges
+        Poset poset = new Poset(H);
         // we can represent this same Hasse diagram using a jagged array
-        // hasseAdjList2[i] is an array containing the indexes of i's direct successors
+        // H2[i] is an array containing the indexes of i's direct successors
         // you could choose to use a jagged array as your *internal* representation
-        int[][] hasseAdjList2 = new int[][] {
+        int[][] H2 = new int[][] {
                 {2, 3},  // edges: 0 -> 2 and 0 -> 3
                 {4},     // edges: 1 -> 4
                 {4},     // edges: 2 -> 4
