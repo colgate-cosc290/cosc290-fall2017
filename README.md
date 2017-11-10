@@ -126,5 +126,15 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
   + Review 8.4
 - **Wed, Nov 8 [Lecture 28: Topological Sort and DFS](lecture/lecture28relations.pdf)**
   + Read 11.2.2, 11.3.5
-- **Fri, Nov 3 [Lecture 29: Counting](xxxx)**
+- **Fri, Nov 10 [Lecture 29: Wrap up Relations](xxxx)**
+  + Review Ch. 8
+
+
+### Week 12
+
+- **Mon, Nov 13 [Lecture 30: Counting](lecture/XXX)**
   + Read 9.1, 9.2
+- **Wed, Nov 15 [Lecture 31: Counting](lecture/XXX)**
+  + Read 9.3
+- **Fri, Nov 17 [Lecture 32: Counting](lecture/XXX)**
+  + Read 9.4
