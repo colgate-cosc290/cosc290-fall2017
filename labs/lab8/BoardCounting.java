@@ -20,6 +20,7 @@ public class BoardCounting {
         return emptyBoards.size();
     }
 
+
     public static void main(String[] args) {
         // example: please delete this code before turning it in
         System.out.println("Problem 9.9999: the number of empty boards is: " + allEmptyBoards());

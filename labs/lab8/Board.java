@@ -65,6 +65,28 @@ public class Board {
     }
 
     /**
+     * Returns a new board that is a copy of this board
+     * @return copy of this board
+     */
+    public Board copy() {
+        Board copy = new Board();
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                copy.board[i][j] = board[i][j];
+            }
+        }
+        return copy;
+    }
+
+    /**
+     * Return size of board (number of rows)
+     * @return size of board
+     */
+    public int size() {
+        return n;
+    }
+
+    /**
      * Place given mark at given (row,column)
      * @param row row to place mark (0 <= row < n)
      * @param col column to place mark (0 <= col < n)
@@ -72,13 +94,28 @@ public class Board {
      * @throws RuntimeException for invalid row/col or if placing mark in a fill space
      */
     public void placeMark(int row, int col, Mark mark) {
-        if ((row < 0 || row >= n) || (col < 0 || col >= n)) {
-            throw new RuntimeException("Invalid row/column");
-        }
+        checkRowAndCol(row, col);
         if (!board[row][col].equals(Mark.BLANK)) {
             throw new RuntimeException("Cannot place mark on occupied space!");
         }
         board[row][col] = mark;
+    }
+
+    private void checkRowAndCol(int row, int col) {
+        if ((row < 0 || row >= n) || (col < 0 || col >= n)) {
+            throw new RuntimeException("Invalid row/column");
+        }
+    }
+
+    /**
+     * Returns true if the given row/col is open (has a blank)
+     * @param row desired row
+     * @param col desired column
+     * @return true if the given row/col is open (has a blank)
+     */
+    public boolean isOpen(int row, int col) {
+        checkRowAndCol(row, col);
+        return board[row][col].equals(Mark.BLANK);
     }
 
     /**
@@ -222,7 +259,7 @@ public class Board {
     //            MAIN
     // ------------------------------------------------------
     public static void main(String[] args) {
-        Board b = new Board("XOO|XOX|OOO");
+        Board b = new Board("X  | OX|OXO");
         System.out.println(b);
     }
 }
