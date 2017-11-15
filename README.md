@@ -135,7 +135,7 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 
 - **Mon, Nov 13 [Lecture 30: Counting](lecture/lecture30counting.pdf)**
   + Read 9.1, 9.2
-- **Wed, Nov 15 [Lecture 31: Counting](lecture/XXX)**
+- **Wed, Nov 15 [Lecture 31: Counting](lecture/lecture31counting2.pdf)**
   + Read 9.3
 - **Fri, Nov 17 [Lecture 32: Counting](lecture/XXX)**
   + Read 9.4
