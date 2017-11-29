@@ -135,7 +135,34 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 
 - **Mon, Nov 13 [Lecture 30: Counting](lecture/lecture30counting.pdf)**
   + Read 9.1, 9.2
-- **Wed, Nov 15 [Lecture 31: Counting](lecture/lecture31counting2.pdf)**
+- **Wed, Nov 15 [Lecture 31: Counting II](lecture/lecture31counting2.pdf)**
   + Read 9.3
-- **Fri, Nov 17 [Lecture 32: Counting](lecture/lecture32counting3.pdf)**
+- **Fri, Nov 17 [Lecture 32: Counting III](lecture/lecture32counting3.pdf)**
   + Read 9.4
+
+### Week 13
+
+*Thanksgiving break!*
+
+### Week 14
+
+- **Mon, Nov 27 [Lecture 33: Counting IV](lecture/lecture33counting4.pdf)**
+  + Review 9.4
+- **Wed, Nov 29 [Lecture 34: Counting wrapup]**
+  + [Problem set 12](lecture/lecture34exercise.pdf) handed out in class, due at start of class on Friday.
+- **Fri, Dec 1 [Lecture 35: Probability](lecture/XXX)**
+  + Read 10.1-10.2
+
+### Week 15
+
+- **Mon, Dec 4 [Lecture 36: Probability II](lecture/XXX)**
+  + Review 10.3
+- **Wed, Nov 6 [Lecture 37: Probability III](lecture/XXX)**
+  + Review 10.4
+- **Fri, Nov 8 [Lecture 38: Probability IV](lecture/XXX)**
+  + Review 10
+
+### Week 16
+
+- **Mon, Dec 11 [Lecture 39: Review](lecture/XXX)**
+- **Wed, Nov 13 [Lecture 40: Review II](lecture/XXX)**
