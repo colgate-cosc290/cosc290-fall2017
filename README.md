@@ -150,7 +150,7 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
   + Review 9.4
 - **Wed, Nov 29 [Lecture 34: Counting wrapup]**
   + [Problem set 12](lecture/lecture34exercise.pdf) handed out in class, due at start of class on Friday.
-- **Fri, Dec 1 [Lecture 35: Probability](lecture/XXX)**
+- **Fri, Dec 1 [Lecture 35: Probability](lecture/lecture35probability.pdf)**
   + Read 10.1-10.2
 
 ### Week 15
