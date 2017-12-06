@@ -16,7 +16,7 @@ public class HashFunction<E> {
      * @param m upper bound on hash value: items will be hashed to 0..m-1
      */
     public HashFunction(int i, int m) {
-        Random random = new Random();
+        Random random = new Random(i);
         h = random.ints(CAPACITY, 0, m).toArray();
     }
 
