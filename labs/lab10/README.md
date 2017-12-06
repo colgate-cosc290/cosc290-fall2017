@@ -1,9 +1,9 @@
-# Lab 9: Probability
+# Lab 10: Probability
 
 - Course: COSC 290 Discrete Structures Fall 2017
 - Instructor: Michael Hay
 - Assignment: Lab 10
-- Due date: upload files to moodle by **Wednesday, Dec. 14th, 11:55pm**.
+- Due date: upload files to moodle by **Wednesday, Dec. 13th, 11:55pm**.
 
 ## Instructions
 
