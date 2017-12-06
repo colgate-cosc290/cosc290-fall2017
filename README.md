@@ -157,10 +157,10 @@ This repository contains course materials for COSC 290 Discrete Structures, Fall
 
 - **Mon, Dec 4 [Lecture 36: Probability II](lecture/lecture36probability.pdf)**
   + Review 10.3
-- **Wed, Nov 6 [Lecture 37: Probability III](lecture/XXX)**
-  + Review 10.4
+- **Wed, Nov 6 [Lecture 37: Probability III](lecture/lecture37probability.pdf)**
+  + Read 10.4
 - **Fri, Nov 8 [Lecture 38: Probability IV](lecture/XXX)**
-  + Review 10
+  + Read 10.4
 
 ### Week 16
 
